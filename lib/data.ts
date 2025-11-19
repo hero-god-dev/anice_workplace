@@ -39,7 +39,7 @@ export const MY_STACK = {
     frontend: [
         {
             name: 'JavaScript',
-            icon: '/logo/js.svg',
+            icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png',
         },
         {
             name: 'TypeScript',
