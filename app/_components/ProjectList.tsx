@@ -115,7 +115,7 @@ const ProjectList = () => {
                             ref={imageContainer}
                         >
                             {PROJECTS.map((project) => (
-                                <Image
+                                <img
                                     src={project.thumbnail}
                                     alt="Project"
                                     width="400"
