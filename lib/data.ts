@@ -296,8 +296,8 @@ export const PROJECTS: IProject[] = [
       "Webflow Forms",
       "SEO"
     ],
-    thumbnail: "/projects/thumbnail/begg.jpg",
-    longThumbnail: "/projects/long/begg.jpg",
+    thumbnail: "https://beige-wrong-lizard-549.mypinata.cloud/ipfs/bafybeihiq33i3t6yxzd533kjhzh3d75pvjanexv4qpyoq7idcqtehdrim4",
+    longThumbnail: "https://beige-wrong-lizard-549.mypinata.cloud/ipfs/bafybeihiq33i3t6yxzd533kjhzh3d75pvjanexv4qpyoq7idcqtehdrim4",
     images: [
       "/projects/images/begg-1.jpg",
       "/projects/images/begg-2.jpg",
